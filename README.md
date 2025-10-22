@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @AdityaJagtap18
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Sql And JAVA
-- 📫 How to reach me Mail me on aditya.jagtapdev@gmail.com
+# Hi, I'm Aditya Jagtap 👋
 
-<!---
-AdityaJagtap18/AdityaJagtap18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🎓 M.Tech in Computer Engineering student at COEP Pune (First Year)
+- 🤖 Passionate about **AI/ML, GenAI, and Agentic AI**
+- 💻 Full Stack Developer with experience in **Spring Boot** and **Angular**
+- 🔬 Exploring **Quantum Computing** and its applications
+
+## 🛠️ Technical Skills
+
+**AI/ML & GenAI:**
+- Deep Learning, NLP, Computer Vision, LLMs
+- Python, TensorFlow/PyTorch
+- Building AI agents and RAG systems
+
+**Backend Development:**
+- Java, Spring Boot
+- Node.js, REST APIs
+- MySQL, OracleSQL
+
+**Frontend Development:**
+- Angular
+- HTML, CSS, JavaScript
+
+**Cloud & Databases:**
+- AWS, Azure
+- Oracle Database, MySQL
+
+## 📫 Let's Connect
+- 📧 Email: aditya.jagtapdev@gmail.com
+- 💼 LinkedIn: [your-linkedin-url]
+
+---
+🌱 Currently diving deep into Agentic AI systems and building projects at the intersection of AI and full-stack development
