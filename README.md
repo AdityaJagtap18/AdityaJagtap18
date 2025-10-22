@@ -28,7 +28,7 @@
 
 ## 📫 Let's Connect
 - 📧 Email: aditya.jagtapdev@gmail.com
-- 💼 LinkedIn: [your-linkedin-url]
+- 💼 LinkedIn: www.linkedin.com/in/adityajagtapdev
 
 ---
 🌱 Currently diving deep into Agentic AI systems and building projects at the intersection of AI and full-stack development
