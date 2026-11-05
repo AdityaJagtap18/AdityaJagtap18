@@ -1,7 +1,7 @@
 # Hi, I'm Aditya Jagtap 👋
 
 ## About Me
-- 🎓 M.Tech in Computer Engineering student at COEP Pune (First Year)
+- 🎓 M.Tech in Computer Engineering student at COEP Pune 
 - 🤖 Passionate about **AI/ML, GenAI, and Agentic AI**
 - 💻 Full Stack Developer with experience in **Spring Boot** and **Angular**
 - 🔬 Exploring **Quantum Computing** and its applications
